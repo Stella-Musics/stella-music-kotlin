@@ -41,6 +41,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		465C68BD2BEBA02A00030C82 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				058557BA273AAA24004C7B11 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		7555FF72242A565900829871 = {
 			isa = PBXGroup;
 			children = (
@@ -61,7 +69,7 @@
 		7555FF7D242A565900829871 /* StellaMusic-iOS */ = {
 			isa = PBXGroup;
 			children = (
-				058557BA273AAA24004C7B11 /* Assets.xcassets */,
+				465C68BD2BEBA02A00030C82 /* Resources */,
 				7555FF82242A565900829871 /* ContentView.swift */,
 				7555FF8C242A565B00829871 /* Info.plist */,
 				2152FB032600AC8F00CF470E /* iOSApp.swift */,
