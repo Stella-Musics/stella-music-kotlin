@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">0x181818</color>
+    <color name="cardBackground">0x1E1D30</color>
+    <color name="onBackground">0x292929</color>
+    <color name="onBackgroundVariant">0xB3B3B3</color>
+    <color name="black">0x000000</color>
+    <color name="white">0xFFFFFF</color>
+    <color name="pointRed">0xFF0000</color>
+    <color name="pointBlue">0x0066FF</color>
+</resources>

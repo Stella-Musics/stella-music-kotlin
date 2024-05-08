@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "stella-music-kotlin"
 include(":StellaMusic-android")
 include(":Shared")
+include(":DesignSystem")
